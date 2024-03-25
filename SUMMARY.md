@@ -2,21 +2,21 @@
 
 ## ✅ Installation
 
-* [⚜ Getting Started](README.md)
+* [⚜️ Getting Started](README.md)
 * [🎨 ResourcePack](installation/resourcepack.md)
 
-## ✏ Customization
+## ✏️ Customization
 
 * [📂 Configuration](customization/configuration.md)
 * [🚗 Creating a vehicle](customization/vehicles/README.md)
   * [📦 Creating the model](customization/vehicles/model.md)
 
-## ⁉ Support
+## ⁉️ Support
 
-* [Discord](https://discord.io/RocketPlugins)
+* [Discord](https://discord.gg/HT47UQXBqG)
 
 ## 💰 Purchase
 
 * [SpigotMC](https://www.spigotmc.org/resources/qualityarmory-vehicles-2.59129/)
 * [Polymart](https://polymart.org/resource/qualityarmory-vehicles.11)
-* [Songoda](https://songoda.com/marketplace/product/qualityarmoryvehicles-custom-vehicles.761)
+* [BuiltByBit](https://builtbybit.com/resources/qualityarmoryvehicles.23636/)
