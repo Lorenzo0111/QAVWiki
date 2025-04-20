@@ -2,7 +2,7 @@
 description: Learn how to create a vehicle
 ---
 
-# 🚗 Creating a vehicle
+# Creating a vehicle
 
 For creating a vehicle I suggest editing a premade configuration.
 
@@ -105,7 +105,7 @@ The height of how many blocks can the vehicle jump
 
 ### model.ModelSize
 
-Current available options:  BABY\_ARMORSTAND\_HEAD, ADULT\_ARMORSTAND\_HEAD,  ADULT\_ARMORSTAND\_HAND, TURTLE
+Current available options: BABY\_ARMORSTAND\_HEAD, ADULT\_ARMORSTAND\_HEAD, ADULT\_ARMORSTAND\_HAND, TURTLE
 
 ### rotationMultiplier
 

@@ -1,21 +1,17 @@
 # Table of contents
 
-## ✅ Installation
+## Installation
 
-* [⚜️ Getting Started](README.md)
-* [🎨 ResourcePack](installation/resourcepack.md)
+* [Getting Started](README.md)
+* [ResourcePack](installation/resourcepack.md)
 
-## ✏️ Customization
+## Customization
 
-* [📂 Configuration](customization/configuration.md)
-* [🚗 Creating a vehicle](customization/vehicles/README.md)
-  * [📦 Creating the model](customization/vehicles/model.md)
+* [Configuration](customization/configuration.md)
+* [Creating a vehicle](customization/vehicles/README.md)
+  * [Creating the model](customization/vehicles/model.md)
 
-## ⁉️ Support
-
-* [Discord](https://discord.gg/HT47UQXBqG)
-
-## 💰 Purchase
+## Purchase
 
 * [SpigotMC](https://www.spigotmc.org/resources/qualityarmory-vehicles-2.59129/)
 * [Polymart](https://polymart.org/resource/qualityarmory-vehicles.11)

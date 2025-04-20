@@ -2,12 +2,12 @@
 description: Learn how to configure the plugin
 ---
 
-# 📂 Configuration
+# Configuration
 
 The configuration documentation is structured in the following format:
 
 Title: Setting\
-&#x20; Description: What the setting does
+Description: What the setting does
 
 {% hint style="info" %}
 If an option is not documented on this list, it is a deprecated or a no longer used option
@@ -68,7 +68,7 @@ If set to true, when a user dismounts a vehicle, it will be picked up.
 
 If set to true, when a user quits, his vehicle will be picked up.
 
-### enable\_DestroyVehiclesOnPlayerQuit&#x20;
+### enable\_DestroyVehiclesOnPlayerQuit
 
 If set to true, when a user quits, his vehicle will be destroyed.
 
@@ -164,4 +164,3 @@ If set to true, when a vehicle will touch water, it will be destroyed.
 ### modernPlaneMovements
 
 If set true, the planes and helicopters will have easier controls.
-

@@ -2,7 +2,7 @@
 description: Learn how to create the vehicle model
 ---
 
-# 📦 Creating the model
+# Creating the model
 
 This is the hardest part but it's not impossible and you can do it. 💪
 

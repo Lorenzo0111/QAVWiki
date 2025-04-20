@@ -2,13 +2,13 @@
 description: Learn how to see the custom models
 ---
 
-# 🎨 ResourcePack
+# ResourcePack
 
 QualityArmoryVehicles uses a resourcepack to create realistic vehicles without replacing existing minecraft items.
 
 Every user of the server should install the resourcepack to see them.
 
-### Automatic installation&#x20;
+### Automatic installation
 
 With the automatic installation, the resourcepack is downloaded and enabled by default on player join.
 
